@@ -87,7 +87,7 @@
     "semantic-release": "^8.0.0",
     "sinon": "^3.2.1",
     "snyk": "^1.40.2",
-    "source-map-support": "^0.4.17",
+    "source-map-support": "^0.5.19",
     "ts-node": "^3.3.0",
     "tslint": "^5.7.0",
     "tslint-eslint-rules": "^4.1.1",
